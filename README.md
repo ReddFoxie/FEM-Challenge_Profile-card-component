@@ -4,7 +4,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Overview
 
-Live Site URL: [Profile card component](link here)
+Live Site URL: [Profile card component](https://reddfoxie.github.io/FEM-Challenge_Profile-card-component/)
 
 ### Useful resources
 
